@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "es2015",
+      "DOM"
+    ],
+    "typeRoots": [
+      "./node_modules/@types",
+      "./custom_definitions"
+    ],
+    "types": [
+      "jest"
+    ],
+  },
+}
